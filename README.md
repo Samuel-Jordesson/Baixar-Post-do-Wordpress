@@ -6,6 +6,9 @@ Este projeto contém duas aplicações integradas:
 - **wordpress-viewer**: Um site Next.js que busca e exibe todas as matérias do site WordPress (portalbarcarena.com.br), permitindo baixar todos os posts em um arquivo JSON para migração.
 - **ver-posts**: Um visualizador React (Vite) para abrir, buscar, filtrar e visualizar os posts baixados em JSON, facilitando a conferência e migração dos conteúdos.
 
+- O site para baixar os posts [https://baixar-post-do-wordpress-fu6b.vercel.app/](https://baixar-post-do-wordpress-fu6b.vercel.app/)
+- O visualizador estará em [https://baixar-post-do-wordpress-qvto.vercel.app/](https://baixar-post-do-wordpress-qvto.vercel.app/)
+
 ---
 
 ## Funcionalidades
